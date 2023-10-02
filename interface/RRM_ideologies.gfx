@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ideology_despotism_Three_Principles_of_he_People_subtype"
+		texturefile = "gfx/interface/ideologies/despotism_Three_Principles_of_he_People_subtype.dds"
+	}	
+
+}

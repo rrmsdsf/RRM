@@ -1,0 +1,18 @@
+spriteTypes = {
+	### CHI ###
+
+	spriteType = {
+		name = "GFX_idea_CHI_minister_Ding_Mocun"
+		texturefile = "gfx/interface/ideas/ministers/CHI/CHI_minister_Ding_Mocun.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_CHI_minister_Chen_Gongbo"
+		texturefile = "gfx/interface/ideas/ministers/CHI/CHI_minister_Chen_Gongbo.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_CHI_minister_Mei_Siping"
+		texturefile = "gfx/interface/ideas/ministers/CHI/CHI_minister_Mei_Siping.dds"
+	}
+
+
+}
